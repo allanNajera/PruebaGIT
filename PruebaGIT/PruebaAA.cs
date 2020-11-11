@@ -10,5 +10,6 @@ namespace PruebaGIT
     {
         int i = 2;
         string hola = "hola";
+        String var = "kashdsad";
     }
 }
