@@ -8,5 +8,6 @@ namespace PruebaGIT
 {
     class PruebaAA
     {
+        int i = 2;
     }
 }
