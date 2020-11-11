@@ -8,5 +8,7 @@ namespace PruebaGIT
 {
     public class Class1
     {
+        //Comentario nuevo
+
     }
 }
